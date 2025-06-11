@@ -1,5 +1,4 @@
-<img src="https://github.com/DiptiWaghmare/DiptiWaghmare/blob/main/Data-Science.jpg?raw=true" width="100%" />
-                                    # Hi there, I'm Dipti Waghmare! 👋
+<img src="https://github.com/DiptiWaghmare/DiptiWaghmare/blob/main/Data-Science.jpg?raw=true" width="100%" /> # Hi there, I'm Dipti Waghmare! 👋
 
 
 
