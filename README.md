@@ -1,7 +1,7 @@
 <img src="https://github.com/DiptiWaghmare/DiptiWaghmare/blob/main/Data-Science.jpg?raw=true" width="100%" />
+                                    # Hi there, I'm Dipti Waghmare! 👋
 
 
-# Hi there, I'm Dipti Waghmare! 👋
 
 🎓 Recently completed my Master's in **Data Science & Artificial Intelligence**  
 🔭 I’m currently working on enhancing my skills in data science and machine learning.
@@ -40,6 +40,7 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diptiwaghmare28?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/DiptiWaghmare)  
 
 
