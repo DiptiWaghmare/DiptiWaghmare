@@ -1,5 +1,5 @@
 
-<img src="![image](https://github.com/user-attachments/assets/9b61d424-0293-44b9-b777-8e05ee181861)" width="100%" />
+https://github.com/user-attachments/assets/9b61d424-0293-44b9-b777-8e05ee181861
 
 # Hi there, I'm Dipti Waghmare! 👋
 
