@@ -1,5 +1,6 @@
 
-https://github.com/user-attachments/assets/9b61d424-0293-44b9-b777-8e05ee181861
+![image](https://github.com/user-attachments/assets/a33d09c2-1dcb-4126-bc41-8ad88f757203)
+
 
 # Hi there, I'm Dipti Waghmare! 👋
 
