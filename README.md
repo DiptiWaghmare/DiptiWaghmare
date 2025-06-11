@@ -1,6 +1,8 @@
-<img src="https://github.com/DiptiWaghmare/DiptiWaghmare/blob/main/Data-Science.jpg?raw=true" width="100%" /> # Hi there, I'm Dipti Waghmare! 👋
+<img src="https://github.com/DiptiWaghmare/DiptiWaghmare/blob/main/Data-Science.jpg?raw=true" width="100%" /> 
 
+# Hi there, I'm Dipti Waghmare! 👋
 
+---
 
 🎓 Recently completed my Master's in **Data Science & Artificial Intelligence**  
 🔭 I’m currently working on enhancing my skills in data science and machine learning.
