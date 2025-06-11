@@ -1,7 +1,7 @@
-
 ![image](https://github.com/user-attachments/assets/c93582ba-0df5-43e2-ad51-fd956c4b11d9)
 
-                      # Hi there, I'm Dipti Waghmare! 👋
+
+# Hi there, I'm Dipti Waghmare! 👋
 
 🎓 Recently completed my Master's in **Data Science & Artificial Intelligence**  
 🔭 I’m currently working on enhancing my skills in data science and machine learning.
