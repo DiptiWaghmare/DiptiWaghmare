@@ -37,22 +37,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔊 **Cross-Lingual Voice Similarity Detection**  
-A research project using **PyAnnote** and **Wav2Vec2** embeddings to match speaker voices across languages (Hindi, English, Marathi, Telugu)  
-**Tags:** Audio Matching · Speaker Embeddings · Deep Learning
-
-### 📈 **E-Commerce Sales Dashboard**  
-Interactive Power BI dashboard for tracking KPIs, state-wise performance, monthly profit trends, and customer behavior  
-**Tags:** Power BI · Data Visualization · DAX
-
-### 👥 **Employee Attrition Dashboard**  
-A Tableau dashboard analyzing HR data for insights into employee turnover  
-**Tags:** Tableau · HR Analytics
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diptiwaghmare28?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
