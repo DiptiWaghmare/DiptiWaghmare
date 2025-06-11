@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c93582ba-0df5-43e2-ad51-fd956c4b11d9)
+<img src="https://github.com/DiptiWaghmare/DiptiWaghmare/blob/main/Data-Science.jpg?raw=true" width="100%" />
 
 
 # Hi there, I'm Dipti Waghmare! 👋
