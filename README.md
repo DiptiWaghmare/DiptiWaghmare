@@ -22,7 +22,10 @@
 
 ## 🛠️ Skills & Tools
 
-`Python` | `SQL` | `Power BI` | `Tableau` | `Machine Learning` | `Git` | `GitHub` | `Streamlit`  
+Python SQL R
+Git GitHub
+Pandas NumPy Scikit-learn Seaborn Matplotlib
+Power BI Tableau Excel
 
 ---
 
