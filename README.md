@@ -5,6 +5,7 @@
 
 🎓 Recently completed my Master's in **Data Science & Artificial Intelligence**  
 🔭 I’m currently working on enhancing my skills in data science and machine learning.
+
 🌱 I’m currently working on Portfolio Website
 💡 Passionate about solving real-world problems using data and machine learning  
 🚀 Actively seeking full-time opportunities in **Data Science**, **Data Analyst**, or **Machine Learning**  
