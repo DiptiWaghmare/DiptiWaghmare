@@ -1,4 +1,4 @@
-<img src="https://github.com/DiptiWaghmare/DiptiWaghmare/blob/main/Data-Science.jpg?raw=true" width="100%" /> 
+<img src="https://www.vecteezy.com/photo/4193417-analytics-data-analysis-strategy-statistic-pressing-your-finger-on-the-inscription-analytics" width="100%" /> 
 
 # Hi there, I'm Dipti Waghmare! 👋
 
